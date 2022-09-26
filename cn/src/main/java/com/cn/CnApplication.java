@@ -14,6 +14,7 @@ public class CnApplication {
 //        String[] arg=new String[1];
 //        arg[0]="--server.port=8084";
         SpringApplication.run(CnApplication.class, args);
+        System.out.println("1");
 
     }
 
