@@ -31,6 +31,6 @@ logging:
     com.cn: debug
 
 #指定文件上传位置
-photo:
-  file:
-    dir: D:\21 物联 陈诺\work\cn\photos
+#photo:
+#  file:
+#    dir: D:\IOT\IoT三轮项目\work\cn\photos
