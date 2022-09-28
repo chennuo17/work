@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86e7ffbe-63ba-4500-8cce-dd2e0a6f4abd" name="Changes" comment="打印1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="86e7ffbe-63ba-4500-8cce-dd2e0a6f4abd" name="Changes" comment="打印3">
       <change beforePath="$PROJECT_DIR$/cn/src/main/java/com/cn/CnApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cn/src/main/java/com/cn/CnApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -249,7 +248,7 @@
       <workItem from="1663907338948" duration="3223000" />
       <workItem from="1664193837617" duration="791000" />
       <workItem from="1664194667381" duration="3039000" />
-      <workItem from="1664348341986" duration="1472000" />
+      <workItem from="1664348341986" duration="2116000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目">
       <created>1664195681638</created>
@@ -265,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664196529121</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="打印3">
+      <created>1664358685164</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664358685164</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,7 +308,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化项目" />
     <MESSAGE value="打印1" />
-    <option name="LAST_COMMIT_MESSAGE" value="打印1" />
+    <MESSAGE value="打印3" />
+    <option name="LAST_COMMIT_MESSAGE" value="打印3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
