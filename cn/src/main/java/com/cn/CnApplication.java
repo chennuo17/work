@@ -17,6 +17,7 @@ public class CnApplication {
         System.out.println("1");
         System.out.println("3");
         System.out.println("4");
+        System.out.println("66");
     }
 
 }
