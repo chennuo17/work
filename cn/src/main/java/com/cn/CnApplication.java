@@ -11,8 +11,6 @@ import java.util.Arrays;
 @MapperScan("com.cn.dao")
 public class CnApplication {
     public static void main(String[] args) {
-//        String[] arg=new String[1];
-//        arg[0]="--server.port=8084";
         SpringApplication.run(CnApplication.class, args);
     }
 
